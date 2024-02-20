@@ -1,0 +1,21 @@
+li {
+    list-style-type: none;
+}
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.linkmenu {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+li {
+    display: inline-block;
+}
+
+.menubarlink {
+    justify-content: ;
+}
