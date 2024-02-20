@@ -1,21 +1,22 @@
-li {
-    list-style-type: none;
+body {
+    background-color: #2d2d34;
 }
 header {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #2d2d34;
+    color: white;
+    height: 60px;
 }
-
-.linkmenu {
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
+ul a{
+    padding-right: 3rem;
+    margin-left: 1rem;
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
 }
-
-li {
-    display: inline-block;
-}
-
-.menubarlink {
-    justify-content: ;
+#logo {
+    margin-left: 1rem;
+    font-size: 20px;
 }
